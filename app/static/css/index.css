@@ -3,3 +3,13 @@
 h3{
   font-family: 'Libre Baskerville', serif;
 }
+body{background-color: antiquewhite;}
+button:hover:before{
+  width: 200%;
+  height: 300px;
+}
+button:hover{
+  border: 3px dotted #33aa77;
+  color:palegoldenrod;
+  background-color: peachpuff;
+}
