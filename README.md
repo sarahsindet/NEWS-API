@@ -1,6 +1,6 @@
 # News-App
 
-### Author: [cynthiaoduol](https://github.com/sarahsindet)
+### Author: [Sarah Sindet](https://github.com/sarahsindet)
 
  
 
