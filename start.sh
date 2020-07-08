@@ -1,4 +1,4 @@
-export NEWS_API_KEY="d279a1fa20cf44c3a7978677eff1c"ff9
+export NEWS_API_KEY="d279a1fa20cf44c3a7978677eff1cff9"
 export SECRET_KEY='sarah'
 
 

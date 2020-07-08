@@ -1,9 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap');
 
 h3{
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Sans', serif;
 }
-body{background-color: antiquewhite;}
+body{
+  background-color: #33aa77;
+
+}
 button:hover:before{
   width: 200%;
   height: 300px;
